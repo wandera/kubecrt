@@ -25,7 +25,7 @@ conditional logic (production vs staging, etc...).
 ## Installation
 
 ```
-brew tap blendle/blendle
+brew tap wandera/wandera
 brew install kubecrt
 ```
 
